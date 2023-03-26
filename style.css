@@ -1,0 +1,660 @@
+
+
+
+nav {
+    background-color: #e8eddf;
+
+}
+
+over {
+    overflow: hidden;
+}
+body{
+    background-color: #e8eddf;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   background-color: #e8eddf;
+
+}
+
+h3{
+    margin-top: 4px;
+}
+img {
+    color: black;
+    background-color: black
+}
+
+.in {
+    height: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    margin-left: 10px;
+
+
+}
+
+.bt {
+    height: 30px;
+    width: 100%;
+    margin: 20px;
+    margin-left: -34px;
+    border-radius: 20px;
+    background-color: black;
+    color: white
+}
+
+.section2 {
+    background-color: #e8eddf;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.hello {
+    width: 75%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+ul li {
+    display: flex;
+    justify-content: space-between
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 4px;
+    width:70%;
+    margin-top: 10px;
+    margin-left: auto;;
+    margin-right: auto;
+}
+.line3{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: black;
+    height: 4px;
+    width:70%;
+    margin-top:10px;
+    margin-left: auto;;
+    margin-right: auto;
+  
+}
+.Latest h1{
+text-align: center;
+}
+.box1 {
+    height: 80%;
+    width: 100%;
+
+   
+}
+
+.box2 {
+    height: 200px;
+    width: 100%;
+    background-color: green;
+}
+
+.box3 {
+    margin-left: auto;
+    height: 150%;
+    background-color: green;
+    width: 100%;
+    margin-top: -331px;
+}
+
+.box11 {
+    height: 700px;
+    width: 57%;
+
+}
+
+.box22 {
+    height: 200px;
+    width: 42%;
+
+
+}
+
+.box33 {
+    margin-left: auto;
+    height: 130px;
+    width: 42%;
+    margin-top: -104px;
+
+
+}
+
+.boxes {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.section4 {
+    height: 800px
+}
+
+.line2 {
+
+    background-color: black;
+
+}
+
+.section5 {
+    display: flex;
+    text-align: center;
+    display: block;
+    
+
+}
+
+
+
+
+.b1 {
+    width: 26%;
+    height: 420px;
+    background-color: blue;
+}
+
+.b2 {
+    width: 22%;
+    height: 420px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.b3 {
+    width: 50%;
+    height: 420px;
+border: 1px solid black;
+}
+
+/* .section6 {
+    height: 490px;
+    overflow: hidden;
+
+}
+
+.con {
+    width: 100%;
+    margin-left: auto;
+}
+
+.h1 {
+    width: 90%;
+
+}
+
+.buton {
+
+    margin-left: auto;
+} */
+
+
+
+
+
+
+
+/* .section13 {
+    height: 340px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+} */
+.cardd img{
+    height:340px
+}
+.c1 {
+    background-color: green;
+    height: 300px;
+    width: 30%;
+}
+
+.c2 {
+    background-color: green;
+    height: 300px;
+    width: 30%;
+}
+
+.c3 {
+    background-color: green;
+    height: 300px;
+    width: 30%;
+}
+.section14{
+   display: flex;
+   justify-content: end;
+}
+.line5{
+    background-color: black;
+    height: 2px;
+    margin-top: 24px;
+    width:20%
+}
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.last{
+    height:400px;
+}
+
+footer{
+    background-color: black;
+    width:100%;
+    height:400px;
+    flex-wrap: wrap;
+    overflow:hidden
+
+
+
+}
+.footer1{
+    display: flex;
+    margin-top: 20px;
+    width:100%;
+    height:100%;
+    background-color: black;
+   justify-content: space-center;
+   overflow:hidden
+
+   
+}
+.f1 h1{
+    background-color: black;
+    color:white;
+    height:100vh;
+    display: flex;
+    overflow:hidden
+
+   
+}
+.f2 h1{
+    background-color: black;
+    color:white;
+    overflow:hidden
+
+}
+
+.f3 h1{
+    background-color: black;
+    color:white;
+    overflow:hidden
+
+}
+
+.f4 h1{
+    background-color: black;
+    color:white;
+    overflow:hidden
+
+}
+.f5 h1{
+    background-color: black;
+    color:white;
+    overflow:hidden
+
+}
+.f1{
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+    overflow:hidden
+
+}
+.f2{
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+    overflow:hidden
+
+}
+.f3{
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+    overflow:hidden
+
+
+}
+.f4{
+    background-color: black;
+    height: 100vh;
+    overflow:hidden;
+
+    width: 20%;
+
+}
+.f5{
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+    overflow:hidden
+
+
+}
+.f1>ul{
+    background-color: black;
+    overflow:hidden
+
+}
+.f2>ul{
+    background-color: black;
+    overflow:hidden
+
+}
+.f3>ul{
+    background-color: black;
+    overflow:hidden
+
+}
+.f4>ul{
+    background-color: black;
+    overflow:hidden
+
+}
+.f5>ul{
+    background-color: black;
+    overflow:visible
+
+}
+.lii
+{
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    list-style: none;
+
+}
+.icons{
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+}
+@media (max-width: 768px) {
+    .section2 {
+      visibility: hidden;
+    }
+  }
+  
+  
+  /* For screens smaller than 768px */
+ /* Mobile Styles */
+ @media screen and (max-width: 767px) {
+    .boxes {
+      flex-direction: column;
+      height: 700px;
+    }
+    .box11{
+        height: 300px;
+        
+    }
+    .box22{
+        margin-top: 20px;
+    }
+    .section5{
+        margin-top:160px;
+    }
+  .section6{
+    margin-top:150px
+
+  }
+   
+    
+  }
+  
+  
+  /* For screens between 768px and 992px */
+  @media (min-width: 768px) and (max-width: 1076px) {
+    .boxes {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+   
+    .box11, .box22, .box33 {
+      width: 48%;
+      margin-right: 2%;
+      margin-bottom: 20px;
+    }
+    .box33 {
+      margin-right: 0;
+    }
+    .box2 {
+      margin-left: 2%;
+    }
+    .box1, .box2, .box3 {
+      height: 200px;
+    }
+    h3 {
+      font-size: 1.4rem;
+    }
+    p {
+      font-size: 1rem;
+      margin-top: 10px;
+    }
+  }
+  
+  
+  @media (max-width: 600px) {
+    .container {
+      display: flex;
+      flex-direction: column;
+    }
+    .section5{
+        margin-top:210px
+    }
+  }
+  /* For screens smaller than 767px */
+
+  @media (max-width: 400px) {
+    .container {
+      display: flex;
+      flex-direction: column;
+    }
+    .section5{
+        margin-top:300px
+    }
+  }
+
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Reduce the size of the main container */
+.section6 {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Make the first row of elements stack on top of each other */
+.d-flex.flex-row.mb-2.justify-content-between {
+  flex-wrap: wrap;
+}
+
+/* Make the image and video containers fill the width of the screen */
+
+
+/* Modify the layout of the second row of elements */
+
+
+/* Set the width of the first column to 100% for small screens */
+  /* Set a default font size and line height */
+  body {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+
+  /* Add a media query to make the HTML responsive below 802px */
+  @media (max-width: 802px) {
+    /* Adjust the width of the elements within the first row */
+    .d-flex.flex-row.mb-2.justify-content-between > * {
+      width: 100%;
+    }
+
+    /* Center the image within the first row */
+    .b1 {
+      text-align: center;
+    }
+
+    /* Reduce the width of the heading and paragraph */
+    .b2 h3,
+    .b2 p {
+      font-size: 0.8rem;
+    }
+
+    /* Reduce the font size of the button */
+    .b2 button {
+      font-size: 0.6rem;
+    }
+
+    /* Adjust the width of the second row */
+    .main {
+      width: 100%;
+      justify-content: center;
+    }
+
+    /* Reduce the width of the heading and increase the font size */
+    .h1 {
+      width: 90%;
+      font-size: 1rem;
+    }
+
+    /* Reduce the margin of the button */
+    .buton button {
+      margin: 0;
+      font-size: 0.8rem;
+    }
+    
+  /* Reduce the height of the main container and remove overflow */
+  .section6 {
+    height: auto;
+    overflow: hidden;
+  }
+
+  /* Reduce the width of the elements within the first row */
+  .d-flex.flex-row.mb-2.justify-content-between > * {
+    width: 100%;
+  }
+
+  /* Center the video element within the first row */
+  .b3 {
+    text-align: center;
+  }
+
+  /* Adjust the width of the second row */
+  .main {
+    width: 100%;
+  }
+
+  /* Reduce the width of the heading and increase the font size */
+  .h1 {
+    width: 90%;
+    font-size: 1.5rem;
+  }
+
+  /* Reduce the margin of the button */
+  .buton button {
+    margin: 0;
+  }
+  }
+
+  /* heelo */
+  .section11 {
+    margin-top: 40px;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    
+}
+
+.card1 {
+    height: 500px;
+    width: 40%;
+    /* margin-top: 10px; */
+    background-color: black;
+    color: white;
+   
+}
+
+.card2 {
+    height: 500px;
+    width: 55%;
+    background-color: black;
+    color: white;
+
+}
+
+.cont {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+ 
+}
+
+.card3 {
+    background-color: black;
+    color: white;
+}
+
+.card4 {
+    background-color: black;
+    color: white;
+} 
+
+  
+.box1 img{
+  
+    height: 100%;
+    width: 100%;
+}
+.box2 img{
+    height: 100%;
+    width: 100%;
+}
+/* Add a media query for screens below 752px */
+.box3 img{
+    height: 100%;
+    width: 100%;
+}
+.b1 img{
+    height: 100%;
+    width: 100%;
+}
+.b3 img{
+    height: 100%;
+    width: 100%;
+}
